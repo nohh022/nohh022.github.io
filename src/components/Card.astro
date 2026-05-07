@@ -23,13 +23,14 @@ const { title, description, ogImage, ...props } = data;
       "focus-visible:no-underline focus-visible:underline-offset-0",
     ]}
   >
+  
     <Heading
       style={{ viewTransitionName: slugifyStr(title.replaceAll(".", "-")) }}
     >
       {title}
     </Heading>
      <Image
-        src={ogImage as any} alt="Post Image"  loading="eager" decoding="async" class=" hover:brightness-75"
+        src={ogImage as any} alt="Post Image" loading="eager" decoding="async" class="w-1/2 hover:brightness-75"
     />
   </a>
   <Datetime {...props} />
