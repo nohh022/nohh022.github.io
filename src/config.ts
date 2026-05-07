@@ -1,0 +1,17 @@
+export const SITE = {
+  website: "https://nohh022.github.io", 
+  author: "nohh022",
+  profile: "https://github.com/nohh022",
+  desc: "CTF Write Ups",
+  title: "nohh022",
+  ogImage: "gintoki.jpg",
+  lightAndDarkMode: false,
+  postPerIndex: 2,
+  postPerPage: 3,
+  showArchives: true,
+  showBackButton: true,
+  dynamicOgImage: true,
+  dir: "ltr", 
+  lang: "es", 
+  timezone: "Europe/Madrid",
+} as const;

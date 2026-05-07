@@ -1,0 +1,21 @@
+---
+import { Image } from "astro:assets";
+import ejpt from "@/assets/icons/ejpt.svg"
+import ewpt from "@/assets/icons/ewpt.svg"
+---
+
+<div class="flex flex-wrap gap-4">
+  <Image 
+    src={ejpt} alt="ejpt" loading="eager" decoding="async" 
+    class="max-w-full sm:w-1/2 md:w-1/4"
+    width={150} 
+    height={150}
+  />
+  <Image 
+    src={ewpt} alt="ewpt" loading="eager" decoding="async" 
+    class="max-w-full sm:w-1/2 md:w-1/4"
+    width={150} 
+    height={150}
+  />
+</div>
+
