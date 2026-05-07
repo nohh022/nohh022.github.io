@@ -30,10 +30,12 @@ La máquina Hackeando al hacker tiene la ip **10.0.2.31**
 Vamos a empezar enumerando todos los puertos abiertos de la máquina, así como los servicios y las versiones que se están ejecutando en ellos mediante la herramienta **nmap**.
 
 ```bash
-# Nmap 7.99 scan initiated Sat May  2 08:21:35 2026 as: /usr/lib/nmap/nmap -sS -p- --open -sCV --min-rate 5000 -n -Pn -oN target 10.0.2.31
+nmap -sS -p- --open -sCV --min-rate 5000 -n -Pn 10.0.2.31
+
 Nmap scan report for 10.0.2.31
 Host is up (0.00036s latency).
 Not shown: 65529 closed tcp ports (reset)
+
 PORT     STATE SERVICE  VERSION
 22/tcp   open  ssh      OpenSSH 9.2p1 Debian 2+deb12u7 (protocol 2.0)
 | ssh-hostkey: 
@@ -74,8 +76,6 @@ PORT     STATE SERVICE  VERSION
 SF-Port2323-TCP:V=7.99%I=7%D=5/2%Time=69F5EC5F%P=x86_64-pc-linux-gnu%r(tn3
 SF:270,21,"\xff\xfb%\xff\xfb&\xff\xfd\x18\xff\xfd\x20\xff\xfd#\xff\xfd'\xf
 SF:f\xfd\$\xff\xfe\x19\xff\xfc\x19\xff\xfd\0\xff\xfb\0");
-MAC Address: 08:00:27:B6:89:2C (Oracle VirtualBox virtual NIC)
-Service Info: OSs: Linux, Unix; CPE: cpe:/o:linux:linux_kernel
 ```
 
 ### Puerto 80 (Web)

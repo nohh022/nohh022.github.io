@@ -17,7 +17,7 @@ const posts = await getCollection("blog");
 
 <Layout title={`Categories | ${SITE.title}`}>
   <Header />
-  <Main pageTitle="Categories" pageDesc="All the categories.">
+  <Main pageTitle="Categorías" pageDesc="Todas las categorías">
     <section class="mt-8 space-y-2 font-mono">
   {PLATFORMS.map(platform => {
     const platformPosts = posts.filter(post => post.data.platform === platform);
