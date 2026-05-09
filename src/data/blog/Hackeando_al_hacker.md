@@ -5,7 +5,7 @@ title: Hackeando al Hacker
 slug: hackeando-al-hacker
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/hackeando-al-hacker/hackeando-al-hacker.jpg
-featured: true
+featured: false
 tags:
   - forense
   - sudo
@@ -15,9 +15,7 @@ description:
   Write up de la máquina Hackeando al hacker de la plataforma The Hackers Labs
 ---
 
-## Información General
-
-![info](../../assets/images/thehackerslabs/hackeando-al-hacker/hackeando-al-hacker.jpg)
+![logo](../../assets/images/thehackerslabs/hackeando-al-hacker/hackeando-al-hacker.jpg)
 
 ## Table of contents
 

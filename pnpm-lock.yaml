@@ -4870,8 +4870,8 @@ snapshots:
 
   is-inside-container@1.0.0:
     dependencies:
-      is-docker: 3.0.0
-
+    is-docker: 3.0.0
+    
   is-number@7.0.0: {}
 
   is-plain-obj@4.1.0: {}

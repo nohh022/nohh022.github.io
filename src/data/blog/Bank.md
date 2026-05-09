@@ -16,9 +16,7 @@ description:
   Write up de la máquina Bank de la plataforma Vulnyx
 ---
 
-## Información General
-
-![info](../../assets/images/vulnyx/bank/bank.jpg)
+![logo](../../assets/images/vulnyx/bank/bank.jpg)
 
 ## Table of contents
 
