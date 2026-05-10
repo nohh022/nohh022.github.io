@@ -5,7 +5,7 @@ title: Bank
 slug: bank
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/bank/bank.jpg
-featured: true
+featured: false
 tags:
   - linux
   - jwt

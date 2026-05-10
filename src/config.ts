@@ -6,7 +6,7 @@ export const SITE = {
   title: "nohh022",
   ogImage: "gintoki.jpg",
   lightAndDarkMode: false,
-  postPerIndex: 2,
+  postPerIndex: 1,
   postPerPage: 3,
   showArchives: true,
   showBackButton: true,
