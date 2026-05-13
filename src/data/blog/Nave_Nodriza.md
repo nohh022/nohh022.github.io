@@ -5,7 +5,7 @@ title: Nave Nodriza
 slug: nave-nodriza
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/nave-nodriza/nave-nodriza.jpg
-featured: true
+featured: false
 tags:
   - sudo
   - suid
