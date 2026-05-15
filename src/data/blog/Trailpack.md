@@ -5,7 +5,7 @@ title: Trailpack
 slug: trailpack
 platform: Dockerlabs
 ogImage: ../../assets/images/dockerlabs/trailpack/trailpack.jpg
-featured: true
+featured: false
 tags:
   - jwt
   - command injection
