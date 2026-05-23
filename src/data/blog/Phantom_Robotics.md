@@ -16,8 +16,6 @@ description:
   Write up de la máquina Phantom Robotics de la plataforma The Hackers Labs
 ---
 
-## Información General
-
 ![logo](../../assets/images/thehackerslabs/phantom-robotics/phantom-robotics.jpg)
 
 ## Table of contents

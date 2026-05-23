@@ -14,8 +14,6 @@ description:
   Write up de la máquina El Ninja de la plataforma The Hackers Labs
 ---
 
-## Información General
-
 ![logo](../../assets/images/thehackerslabs/el-ninja/el-ninja.jpg)
 
 ## Table of contents
@@ -24,7 +22,7 @@ description:
 
 La máquina El Ninja tiene la ip **10.0.2.34**
 
-## Descubrimiento de Puertos
+### Descubrimiento de Puertos
 
 Vamos a empezar enumerando todos los puertos abiertos de la máquina, así como los servicios y las versiones que se están ejecutando en ellos mediante la herramienta **nmap**.
 

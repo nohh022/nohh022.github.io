@@ -16,8 +16,6 @@ description:
   Write up de la máquina Imagery de la plataforma Hack The Box (HTB)
 ---
 
-## Información General
-
 ![logo](../../assets/images/htb/imagery/imagery.jpg)
 
 ## Table of contents
