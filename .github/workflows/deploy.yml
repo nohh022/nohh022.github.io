@@ -20,6 +20,9 @@ jobs:
         uses: withastro/action@v6
         with:
           package-manager: pnpm@10.33.2
+        env:
+          PUBLIC_GOOGLE_SITE_VERIFICATION: ${{ secrets.PUBLIC_GOOGLE_SITE_VERIFICATION }}
+          
   deploy:
     needs: build
     runs-on: ubuntu-latest
