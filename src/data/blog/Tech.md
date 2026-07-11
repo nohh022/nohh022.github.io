@@ -270,7 +270,6 @@ Listamos el contenido de los dos archivos **$R** para obtener las flags.
 
 ```powershell
 PS C:\Users\Administrator\Desktop> Get-Content -Path "C:\`$Recycle.Bin\S-1-5-21-1836463444-3531003937-1365364296-500\`$RIO2WTR.txt"
-Get-Content -Path "C:\`$Recycle.Bin\S-1-5-21-1836463444-3531003937-1365364296-500\`$RIO2WTR.txt"
 
 c0XXXXXXXXXXXXXXXXXXXXXXXXXXXX67
 
