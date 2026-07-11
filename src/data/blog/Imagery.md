@@ -5,7 +5,7 @@ title: Imagery
 slug: imagery
 platform: HTB
 ogImage: ../../assets/images/htb/imagery/imagery.jpg
-featured: true
+featured: false
 tags:
   - linux
   - xss
