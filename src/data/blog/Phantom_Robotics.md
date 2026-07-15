@@ -3,9 +3,9 @@ creator: nohh022
 pubDatetime: 2026-05-15T01:00:00Z
 title: Phantom Robotics
 slug: phantom-robotics
-platform: HTB
+platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/phantom-robotics/phantom-robotics.jpg
-featured: true
+featured: false
 tags:
   - windows
   - active directory
