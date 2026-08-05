@@ -5,7 +5,7 @@ title: Tech
 slug: tech
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/tech/tech.jpg
-featured: true
+featured: false
 tags:
   - windows
   - log poisoning
