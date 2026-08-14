@@ -5,7 +5,7 @@ title: Volt
 slug: volt
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/volt/volt.jpg
-featured: true
+featured: false
 tags:
   - linux
   - hydra
