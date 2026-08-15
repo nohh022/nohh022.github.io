@@ -13,7 +13,7 @@ tags:
   - sudoers
   - capabilities
 description:
-  Write up de la máquina Hannah Coffe de la Dockerlabs
+  Write up de la máquina Hannah Coffe de la plataforma Dockerlabs
 ---
 
 ![logo](../../assets/images/dockerlabs/hannah-coffee/hannah-coffee.jpg)

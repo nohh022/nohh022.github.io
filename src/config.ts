@@ -7,7 +7,7 @@ export const SITE = {
   ogImage: "gintoki.jpg",
   lightAndDarkMode: false,
   postPerIndex: 1,
-  postPerPage: 3,
+  postPerPage: 4,
   showArchives: true,
   showBackButton: true,
   dynamicOgImage: true,
