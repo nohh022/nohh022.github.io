@@ -5,7 +5,7 @@ title: SuraxCorp
 slug: suraxcorp
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/suraxcorp/suraxcorp.jpg
-featured: true
+featured: false
 tags:
   - linux
   - ipv6

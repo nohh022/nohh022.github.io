@@ -5,7 +5,7 @@ title: VisionLab
 slug: visionlab
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/visionlab/visionlab.jpg
-featured: true
+featured: false
 tags:
   - linux
   - ai
