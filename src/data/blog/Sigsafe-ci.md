@@ -5,7 +5,7 @@ title: Sigsafe-ci
 slug: sigsafe-ci
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/sigsafe-ci/sigsafe-ci.jpg
-featured: true
+featured: false
 tags:
   - linux
   - snmp

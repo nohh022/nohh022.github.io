@@ -5,7 +5,7 @@ title: BaluHome
 slug: baluhome
 platform: Dockerlabs
 ogImage: ../../assets/images/dockerlabs/baluhome/baluhome.jpg
-featured: true
+featured: false
 tags:
   - linux
   - xss
