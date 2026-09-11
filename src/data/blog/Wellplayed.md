@@ -5,7 +5,7 @@ title: Wellplayed
 slug: wellplayed
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/wellplayed/wellplayed.jpg
-featured: true
+featured: false
 tags:
   - linux
   - wordpress
