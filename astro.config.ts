@@ -11,6 +11,7 @@ import {
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import { SITE } from "./src/config";
 import mdx from "@astrojs/mdx";
+import { unified } from "@astrojs/markdown-remark";
 
 export default defineConfig({
   site: SITE.website,
@@ -21,7 +22,8 @@ export default defineConfig({
     mdx(),
   ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    processor: unified({
+    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]]}),
     shikiConfig: {
       themes: { light: "min-light", dark: "nord" },
       defaultColor: false,
