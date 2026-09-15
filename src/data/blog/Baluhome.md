@@ -73,7 +73,7 @@ Al subirlo nos aparece el menú de **alert(1)** que habíamos introducido, confi
 
 Vamos a aprovecharnos de este **XSS** para tratar de obtener la cookie de sesión del admin usando el sistema de mensajes. Pero primero, debemos de comprobar que la propiedad **HttpOnly** de nuestra cookie de sesión esté como **false** para que podamos obtenerlas a través de javascript.
 
-Accedemos a las opciones de desarrollo pulsado F12 > Storage > Cookies.
+Accedemos a las opciones de desarrollo pulsando F12 > Storage > Cookies.
 
 ![http-only](../../assets/images/dockerlabs/baluhome/http-only.jpg)
 

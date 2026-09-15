@@ -5,7 +5,7 @@ title: Maxorata
 slug: maxorata
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/maxorata/maxorata.jpg
-featured: true
+featured: false
 tags:
   - linux
   - qrcode
