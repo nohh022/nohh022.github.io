@@ -5,7 +5,7 @@ title: Benahoare
 slug: benahoare
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/benahoare/benahoare.jpg
-featured: true
+featured: false
 tags:
   - windows
   - api
