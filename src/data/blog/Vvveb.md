@@ -5,7 +5,7 @@ title: Vvveb
 slug: vvveb
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/vvveb/vvveb.jpg
-featured: true
+featured: false
 tags:
   - linux
   - cve
