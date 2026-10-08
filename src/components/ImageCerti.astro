@@ -2,20 +2,26 @@
 import { Image } from "astro:assets";
 import ejpt from "@/assets/icons/ejpt.svg"
 import ewpt from "@/assets/icons/ewpt.svg"
+import cwes from "@/assets/icons/cwes.png"
 ---
 
-<div class="flex flex-wrap gap-4">
+<div class="flex flex-wrap">
   <Image 
     src={ejpt} alt="ejpt" loading="eager" decoding="async" 
-    class="max-w-full sm:w-1/2 md:w-1/4"
-    width={150} 
-    height={150}
+    class="max-w-[20%] sm:w-1/2 md:w-1/4 object-contain"
+    width={100} 
+    height={100}
   />
   <Image 
     src={ewpt} alt="ewpt" loading="eager" decoding="async" 
-    class="max-w-full sm:w-1/2 md:w-1/4"
-    width={150} 
-    height={150}
+    class="max-w-[20%] sm:w-1/2 md:w-1/4 object-contain"
+    width={100} 
+    height={100}
+  />
+   <Image 
+    src={cwes} alt="cwes" loading="eager" decoding="async" 
+    class="max-w-[20%] sm:w-1/2 md:w-1/4 object-contain"
+    width={100} 
+    height={100}
   />
 </div>
-
