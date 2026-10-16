@@ -5,7 +5,7 @@ title: Tamarán
 slug: tamaran
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/tamaran/tamaran.jpg
-featured: true
+featured: false
 tags:
   - linux 
   - cve
