@@ -10,7 +10,7 @@ tags:
   - linux
   - snmp
   - pyserver
-  - commmand injection
+  - command injection
   - python library hijacking
 description:
   Write up de la máquina Sigsafe-ci de la plataforma The Hackers Labs

@@ -5,7 +5,7 @@ title: Automatismos Rodríguez
 slug: automatismos-rodriguez
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/automatismos-rodriguez/automatismos-rodriguez.jpg
-featured: true
+featured: false
 tags:
   - linux
   - cve
