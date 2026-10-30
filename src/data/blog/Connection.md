@@ -5,7 +5,7 @@ title: Connection
 slug: connection
 platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/connection/connection.jpg
-featured: true
+featured: false
 tags:
   - windows 
   - lfi
