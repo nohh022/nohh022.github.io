@@ -7,7 +7,7 @@ platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/tech/tech.jpg
 featured: false
 tags:
-  - windows
+  - windows server
   - log poisoning
   - recycle bin
 description:

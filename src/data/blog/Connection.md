@@ -7,7 +7,7 @@ platform: Vulnyx
 ogImage: ../../assets/images/vulnyx/connection/connection.jpg
 featured: false
 tags:
-  - windows 
+  - windows server
   - lfi
   - mremoteng
 description:

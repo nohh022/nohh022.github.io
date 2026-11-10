@@ -7,7 +7,7 @@ platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/phantom-robotics/phantom-robotics.jpg
 featured: false
 tags:
-  - windows
+  - windows server
   - active directory
   - llmnr/nbt-ns poisoning
   - esc3

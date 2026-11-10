@@ -7,7 +7,7 @@ platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/benahoare/benahoare.jpg
 featured: false
 tags:
-  - windows
+  - windows server
   - api
   - smb
   - windows service

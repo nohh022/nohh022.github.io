@@ -5,7 +5,7 @@ title: NovaVault
 slug: novavault
 platform: The Hackers Labs
 ogImage: ../../assets/images/thehackerslabs/novavault/novavault.jpg
-featured: true
+featured: false
 tags:
   - linux 
   - api
